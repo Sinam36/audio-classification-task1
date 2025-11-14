@@ -29,17 +29,6 @@ The workflow includes:
 
 ---
 
-## 📁 Folder Structure (Recommended)
-
-```
-project/
-│── data/                    # Raw audio files (.wav)
-│── models/                  # Saved model weights
-│── utils/                   # Helper functions
-│── audio_classificationTASK1.ipynb
-│── README.md                # This file
-```
-
 ---
 
 ## Features & Techniques Used
@@ -130,7 +119,7 @@ Includes:
 
 ---
 
-## 📝 References
+##  References
 
 1. FreeCodeCamp PyTorch tutorial (base code): [https://github.com/omaratef3221/pytorch_tutorials](https://github.com/omaratef3221/pytorch_tutorials)
 2. Transfer Learning with ResNet‑18: [https://ngaif.com/guide-to-transfer-learning-with-pytorch/](https://ngaif.com/guide-to-transfer-learning-with-pytorch/)
