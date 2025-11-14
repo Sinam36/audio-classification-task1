@@ -1,4 +1,4 @@
-The model gave the following results :
+The model gave the following results:
 
 -----------------------------------------------
 
